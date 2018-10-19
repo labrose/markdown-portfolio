@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Me as an octocat](my-octocat-1539720582205.png)
