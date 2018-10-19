@@ -22,4 +22,4 @@ layout: default
 
 <br>
 
-{% include my-octocat-1539720582205.png}
+{% include my-octocat-1539720582205.png %}
