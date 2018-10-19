@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+## Skills
+* Baking **cupcakes**, **macaroons**, and other sweets
+* Programming in **C**, **C++**, and **Java**
